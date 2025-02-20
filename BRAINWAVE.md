@@ -5,7 +5,7 @@ This is a fork of the HuggingFace repo for a Brain Wave Collective event at Vent
 https://huggingface.co/
 
 # Notebook Example
-https://github.com/brainwavecollective/smolagents/blob/main/examples/readme_example.ipynb
+https://github.com/brainwavecollective/smolagents/blob/main/examples/readme_example.ipynb  
 https://colab.research.google.com/
 
 # Blog 
