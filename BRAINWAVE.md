@@ -8,6 +8,9 @@ https://huggingface.co/
 https://github.com/brainwavecollective/smolagents/blob/main/examples/readme_example.ipynb  
 https://colab.research.google.com/
 
+# Web Browser Example
+https://huggingface.co/docs/smolagents/en/examples/web_browser
+
 # Blog 
 https://huggingface.co/blog/smolagents
 
